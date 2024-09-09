@@ -1,4 +1,4 @@
-[![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBhY2VjYWRhMDI4M2M1YjUxODFkNmUxMTNiZjBlNDQwNzI0N2VmNCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/ISWdqGTpBUfmtGQkwQ/giphy.gif)](https://www.adamalston.com/)
+[![](https://raw.githubusercontent.com/khizer-javed/khizer-javed/master/profile.gif)]
 ### Languages
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
