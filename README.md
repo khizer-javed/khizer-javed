@@ -12,10 +12,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+![NestJS](https://img.shields.io/badge/NestJS-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio)
+![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socketdotio)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Full Stack Projects
