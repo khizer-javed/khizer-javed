@@ -23,9 +23,6 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/khizer-javed/portfolio)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/khizer-javed/portfolio)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/khizer-javed/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/khizer-javed/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/khizer-javed/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/khizer-javed/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/khizer-javed/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🦠%20Board%20Game%20Directory-000)](https://github.com/khizer-javed/board-game-directory)
+[![](https://img.shields.io/badge/-📝%Invoice%20Ease-000)](https://github.com/khizer-javed/Invoice-Ease)
+[![](https://img.shields.io/badge/-🔬%20Drag&Drop%20Workout-000)](https://github.com/khizer-javed/nangarra/dragdropworkout)
