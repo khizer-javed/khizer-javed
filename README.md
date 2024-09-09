@@ -1,4 +1,4 @@
-<img width='100%' src='https://raw.githubusercontent.com/khizer-javed/khizer-javed/master/profile.gif' />
+![Profile](https://raw.githubusercontent.com/khizer-javed/khizer-javed/master/profile.gif)
 
 ### Languages
 
