@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/khizer-javed/khizer-javed/master)
+![](https://raw.githubusercontent.com/khizer-javed/khizer-javed/master/profile.gif)
 
 ### Languages
 
