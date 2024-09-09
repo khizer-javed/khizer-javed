@@ -10,13 +10,14 @@
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![EJS](https://img.shields.io/badge/EJS-000?logo=ejs)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
 ![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socketdotio)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?logo=openai)
 
 ### Full Stack Projects
 
