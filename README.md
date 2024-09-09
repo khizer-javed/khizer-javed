@@ -2,22 +2,23 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge)
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![EJS](https://img.shields.io/badge/EJS-000?logo=ejs)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?logo=nestjs)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socketdotio)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?logo=openai)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![EJS Badge](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge)
+![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge)
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 
 ### Full Stack Projects
 
