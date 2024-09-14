@@ -20,7 +20,7 @@
 ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 ![Strapi Badge](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=for-the-badge)
-![FB Graph API Badge](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/-Facebook%20Graph%20API-%23ffffff?style=for-the-badge&logo=facebook&logoColor=%230b81c2&labelColor=%23FFFFFF&color=%230b81c2))
+![FB Graph API Badge](https://img.shields.io/badge/-Facebook%20Graph%20API-%23ffffff?style=for-the-badge&logo=facebook&logoColor=%230b81c2&labelColor=%23FFFFFF&color=%230b81c2)
 ![IG Graph API Badge](https://img.shields.io/badge/-Instagram%20Graph%20API-%23ffffff?style=for-the-badge&logo=instagram&logoColor=%23E8048E&labelColor=%23FFFFFF&color=%23E8048E)
 
 
