@@ -43,7 +43,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-23FFFFFF?style=for-the-badge&labelColor=%23FFFFFF&color=%23000000)](https://github.com/khizer-javed/portfolio)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-%23FFFFFF?style=for-the-badge&labelColor=%23FFFFFF&color=%23000000)](https://github.com/khizer-javed/portfolio)
 [![](https://img.shields.io/badge/-🎲%20Board%20Game%20Directory-000)](https://github.com/khizer-javed/board-game-directory)
 [![](https://img.shields.io/badge/-📝%20Invoice%20Ease-000)](https://github.com/khizer-javed/Invoice-Ease)
 [![](https://img.shields.io/badge/-🏋️‍♂️%20Drag&Drop%20Workout-000)](https://github.com/khizer-javed/nangarra/dragdropworkout)
