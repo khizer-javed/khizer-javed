@@ -43,7 +43,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-%F0%9F%A7%AC%20My%20Website-ffffff?style=for-the-badge&color=%231CBBB4)](https://github.com/khizer-javed/portfolio)
-[![](https://img.shields.io/badge/-%F0%9F%8E%B2%20Board%20Game%20Directory-ffffff?style=for-the-badge&color=%231CBBB4)](https://github.com/khizer-javed/board-game-directory)
-[![](https://img.shields.io/badge/-%F0%9F%93%9D%20Invoice%20Ease-ffffff?style=for-the-badge&color=%231CBBB4)](https://github.com/khizer-javed/Invoice-Ease)
-[![](https://img.shields.io/badge/-%F0%9F%8F%8B%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20Drag%20%26%20Drop%20Workout-ffffff?style=for-the-badge&color=%231CBBB4)](https://github.com/khizer-javed/nangarra/dragdropworkout)
+[![](https://img.shields.io/badge/-%F0%9F%A7%AC%20My%20Website-ffffff?style=for-the-badge&color=blue)](https://github.com/khizer-javed/portfolio)
+[![](https://img.shields.io/badge/-%F0%9F%8E%B2%20Board%20Game%20Directory-ffffff?style=for-the-badge&color=red)](https://github.com/khizer-javed/board-game-directory)
+[![](https://img.shields.io/badge/-%F0%9F%93%9D%20Invoice%20Ease-ffffff?style=for-the-badge&color=yellow)](https://github.com/khizer-javed/Invoice-Ease)
+[![](https://img.shields.io/badge/-%F0%9F%8F%8B%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20Drag%20%26%20Drop%20Workout-ffffff?style=for-the-badge&color=green)](https://github.com/khizer-javed/nangarra/dragdropworkout)
