@@ -22,11 +22,8 @@
 ![Strapi Badge](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=for-the-badge)
 ![FB Graph API Badge](https://img.shields.io/badge/-Facebook%20Graph%20API-%23ffffff?style=for-the-badge&logo=facebook&logoColor=%230b81c2&labelColor=%23FFFFFF&color=%230b81c2)
 ![IG Graph API Badge](https://img.shields.io/badge/-Instagram%20Graph%20API-%23ffffff?style=for-the-badge&logo=instagram&logoColor=%23E8048E&labelColor=%23FFFFFF&color=%23E8048E)
-
-
-
-
-
+![LN Graph API Badge](https://img.shields.io/badge/-Linkedin%20Graph%20API-%23ffffff?style=for-the-badge&logo=linkedin&logoColor=%231589CB&labelColor=%23FFFFFF&color=%231589CB)
+![TT Graph API Badge](https://img.shields.io/badge/-Tiktok%20Graph%20API-%23ffffff?style=for-the-badge&logo=tiktok&logoColor=%23000000&labelColor=%23FFFFFF&color=%23000000)
 
 ### Tools
 
