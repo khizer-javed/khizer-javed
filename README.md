@@ -59,6 +59,15 @@
 [![](https://img.shields.io/badge/-Drag%20%26%20Drop%20Workout-ffffff?style=for-the-badge&color=purple)](https://github.com/khizer-javed/nangarra/dragdropworkout)
 
 
+
+
+
+
+
+
+
+
+
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -98,3 +107,18 @@
 ![PM2 Badge](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff&style=for-the-badge)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
